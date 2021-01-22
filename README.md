@@ -1,2 +1,2 @@
 # Boostrap4
- Ejercicos de Boostrap - Platzi 2021.
+Bootstrap exercises, basic grid concepts - Platzi 2021.
